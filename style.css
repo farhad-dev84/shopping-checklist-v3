@@ -1,0 +1,12 @@
+body {
+  font-family : "Vazirmatn" , sans-serif ;
+}
+
+#itemInput:focus {
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+}
+
+.list-group-item.checked {
+  text-decoration : line-through ;
+  background-color : #d4edda ;
+}
